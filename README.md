@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Projeto Calculadora
+
+As funcionalidades da calculadora foram geradas através do React e sua formatação e estilo foram geradas com o uso do CSS e HTML.
+O projeto foi proposto e acompanhado pelo curso ministrado pela Cod3r na plataforma Udemy: Curso Web Moderno com JavaScript 2021 + Projetos.
+Além disso, o modelo da calculador foi inspirado no sistema IOS, no entanto, alguns recursos foram adicionados e alterados do projeto original da cod3r.
+Segue abaixo um breve tutorial sobre o uso dessa aplicação em react (uso do node.js)
+
+## Funcionalidades adicionadas:
+
+- Potenciação
+- Display auxiliar que indica os calculos executados
+- Limitação do número de dígitos representados no display (uso de notação científica e arredondamento)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
